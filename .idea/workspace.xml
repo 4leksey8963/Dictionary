@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b6f04ad-79e6-4158-802d-b4e72084fef1" name="Changes" comment="">
+    <list default="true" id="0b6f04ad-79e6-4158-802d-b4e72084fef1" name="Changes" comment="Создание классов двух словарей + серилизация на них">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -33,8 +36,15 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "exchange",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/HONOR/Desktop/java/Dictionary/src/Main.java",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -58,11 +68,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715726530982</updated>
-      <workItem from="1715726532073" duration="90000" />
+      <workItem from="1715726532073" duration="424000" />
     </task>
+    <task id="LOCAL-00001" summary="Создание абстрактного класса для словарей">
+      <option name="closed" value="true" />
+      <created>1715726660287</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715726660287</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Создание классов двух словарей + серилизация на них">
+      <option name="closed" value="true" />
+      <created>1715726731758</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715726731758</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Создание абстрактного класса для словарей" />
+    <MESSAGE value="Создание классов двух словарей + серилизация на них" />
+    <option name="LAST_COMMIT_MESSAGE" value="Создание классов двух словарей + серилизация на них" />
   </component>
 </project>
